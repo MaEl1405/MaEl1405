@@ -2,11 +2,12 @@
 
 - 🎓 Control Engineering student
 - 🎂 Born in 2001
-- 🌐 Interested in robotics, learning, system identification, machine learning, and industrial automation
+- 🌐 Interested in robotics, system identification, machine learning, and industrial automation
+- 
+## Feel free to contact me in:
 
-## Feel free to contact me in :
 [![Email](https://img.shields.io/badge/Email-sru.mahdi%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:sru.mahdi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahdi-elmi-a40730277)
 
 ## Skills
 
@@ -22,4 +23,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![Profile Views](https://visitcount.itsvg.in/api?id=MaEl1405&icon=1&color=1)
