@@ -4,6 +4,10 @@
 - 🎂 Born in 2001
 - 🌐 Interested in robotics, learning, system identification, machine learning, and industrial automation
 
+## Feel free to contact me in :
+[![Email](https://img.shields.io/badge/Email-sru.mahdi%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:sru.mahdi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername)
+
 ## Skills
 
 - ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -18,6 +22,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
-## Contact
-
-Feel free to [email me](mailto:sru.mahdi@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mahdi-elmi-a40730277).
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
