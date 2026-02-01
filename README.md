@@ -20,9 +20,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaEl1405&show_icons=true&theme=radical" alt="Mahdi's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MaEl1405&icon=1&color=1" alt="Profile Views" />
-</p>
+![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaEl1405&show_icons=true&theme=radical)
+
+![Mahdi's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MaEl1405&theme=radical)
+
+![Profile Views](https://visitcount.itsvg.in/api?id=MaEl1405&icon=1&color=1)
