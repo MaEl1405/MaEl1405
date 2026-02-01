@@ -18,8 +18,11 @@
 - ![Simatic Manager](https://img.shields.io/badge/Simatic_Manager-009639?style=for-the-badge&logo=siemens&logoColor=white)
 - ![TIA Portal](https://img.shields.io/badge/TIA_Portal-009639?style=for-the-badge&logo=siemens&logoColor=white)
 
-## GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaEl1405&show_icons=true)
-
-![Profile Views](https://visitcount.itsvg.in/api?id=MaEl1405&icon=1&color=1)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaEl1405&show_icons=true&theme=radical" alt="Mahdi's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=MaEl1405&icon=1&color=1" alt="Profile Views" />
+</p>
