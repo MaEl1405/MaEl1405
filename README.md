@@ -6,7 +6,7 @@
 <details>
 <summary>📊 GitHub Stats</summary>
   
-![Trophy](https://github-profile-trophy.vercel.app/?username=MaEl1405&theme=radical&no-frame=true&margin-w=15)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaEl1405&show_icons=true&theme=radical)](https://github.com/MaEl1405)
 
 ![Mahdi's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MaEl1405&theme=radical)
 
