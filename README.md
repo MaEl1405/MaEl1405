@@ -24,4 +24,4 @@
 
 ![Mahdi's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MaEl1405&theme=radical)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=MaEl1405&icon=1&color=1)
+![Profile Views](https://komarev.com/ghpvc/?username=MaEl1405&color=blue)
