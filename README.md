@@ -1,5 +1,5 @@
 ## Contact me:
-[![Email](https://img.shields.io/badge/Email-sru.mahdi%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:mahdi.mahdi79@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mahdi.elmi79%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:mahdi.mahdi79@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahdi-elmi-a40730277)
 
 
