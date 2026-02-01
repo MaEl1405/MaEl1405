@@ -20,7 +20,7 @@
 
 ### 📊 GitHub Stats
 
-![Mahdi's Stats](https://github-readme-stats.vercel.app/api?username=MaEl1405&show_icons=true&theme=radical&hide_rank=true)
+![Mahdi's Stats](https://github-readme-stats-tau-pearl.vercel.app/api?username=MaEl1405&show_icons=true&theme=radical)
 
 ![Mahdi's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MaEl1405&theme=radical)
 
